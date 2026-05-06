@@ -9,8 +9,7 @@ The Steady App Store privacy policy lives at:
 `https://rocoworks.com/steady/privacy/`
 
 Edit `steady/privacy/index.html` to update the policy text, effective date, or
-support email. The current placeholder contact address is
-`support@rocoworks.com`.
+support email. The current contact address is `support@madebyroco.com`.
 
 ## Deploying
 
